@@ -1,3 +1,6 @@
+# vim
+*.swp
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +29,7 @@
 *.exe
 *.out
 *.app
+
+# Build folders
+bin/
+build/
